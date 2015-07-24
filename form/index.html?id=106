@@ -1,0 +1,347 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>ゴルフを極める|MIGAKU</title>
+<meta name="description" content="" />
+<meta name="author" content="user" />
+<meta name="keywords" content="">
+<link rel="apple-touch-icon" href="http://migaku.me/assets/common/img/ico/favicon.png" />
+<link rel="stylesheet" type="text/css" href="http://migaku.me/assets/common/css/import.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://migaku.me/assets/css/pc/style.css" media="all" />
+<script type="text/javascript" src="http://migaku.me/assets/common/js/jquery-1.9.1.js" ></script>
+<script type="text/javascript" src="http://migaku.me/assets/common/js/custom.js"></script>
+<script type="text/javascript" src="http://migaku.me/assets/common/js/smart-crossfade.js"></script>
+<script type="text/javascript" src="http://migaku.me/assets/common/js/modal.js"></script>
+<script type="text/javascript" src="http://migaku.me/assets/common/js/jquery.min.js"></script>
+<script type="text/javascript" src="http://migaku.me/assets/common/js/html5.js"></script>
+<script type="text/javascript" src="http://migaku.me/assets/common/js/custom_jssor.js"></script>
+<script type="text/javascript" src="http://migaku.me/assets/common/js/jssor.slider.js"></script>
+<script type="text/javascript" src="http://migaku.me/assets/common/js/jssor.js"></script>
+</head>
+<body id="home">
+<div id="modal-content">
+
+<p><a id="modal-close" class="button-link"><img src="http://migaku.me/assets/img/pc/about/modal_close.png" alt=""/></a></p>
+<div id="top02voice">
+<div style="position: relative; width: 100%;overflow: hidden;">
+<div style="position: relative; left: 50%; width: 5000px; text-align: center; margin-left: -2500px;">
+<!-- Jssor Slider Begin -->
+<div id="slidermodal_container">
+<!-- Slides Container -->
+<div u="slides" class="slidermodal_containerIn">
+<div class="modal_bg1">
+<img src="http://migaku.me/assets/img/pc/about/about_bnr_01.jpg" style="position: absolute; top: 0px; left: 0px; width: 482px; height: 520px;" />
+<p u="thumb"> </p>
+<div style="position: absolute; width: 382px; height: 330px; top: 204px;right:0px;
+text-align: left; font-size: 12px;">
+<span style="display: block;font-size: 16px;width:279px;margin:0 auto;">#001<br/><span class="modal_ttl01">心も一緒に磨かれる。</span><br/>東京都 Y様</span>
+<br />
+<span class="modal_txt">
+テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。
+</span>
+<br />
+<span class="modal_txt02">
+教室名教室名教室名教室名教室名<br/>
+〒0000000<br/>
+東京都世田谷区1-1-0 
+</span>
+</div>
+</div>
+<div class="modal_bg1">
+<img src="http://migaku.me/assets/img/pc/about/about_bnr_02.jpg" style="position: absolute; top: 0px; left: 0px; width: 482px; height: 520px;" />
+<p u="thumb"> </p>
+<div style="position: absolute; width: 382px; height: 330px; top: 204px;right:0px;
+text-align: left; font-size: 12px;">
+<span style="display: block;font-size: 16px;width:279px;margin:0 auto;">#002<br/><span class="modal_ttl01">海外へ一人旅。</span><br/>東京都 Y様</span>
+<br />
+<span class="modal_txt">
+テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。
+</span>
+<br />
+<span class="modal_txt02">
+教室名教室名教室名教室名教室名<br/>
+〒0000000<br/>
+東京都世田谷区1-1-0 
+</span>
+</div>
+</div>
+
+
+<div class="modal_bg1">
+<img src="http://migaku.me/assets/img/pc/about/about_bnr_03.jpg" style="position: absolute; top: 0px; left: 0px; width: 482px; height: 520px;" />
+<p u="thumb"> </p>
+<div style="position: absolute; width: 382px; height: 330px; top: 204px;right:0px;
+text-align: left; font-size: 12px;">
+<span style="display: block;font-size: 16px;width:279px;margin:0 auto;">#003<br/><span class="modal_ttl01">3ヶ月でコースデビュー。</span><br/>東京都 Y様</span>
+<br />
+<span class="modal_txt">
+テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。
+</span>
+<br />
+<span class="modal_txt02">
+教室名教室名教室名教室名教室名<br/>
+〒0000000<br/>
+東京都世田谷区1-1-0 
+</span>
+</div>
+</div>
+</div>
+<span u="arrowleft" class="jssora07l" style="width: 64px; height: 61px; top: 183px;left:0px;"></span>
+<!-- Arrow Right -->
+<span u="arrowright" class="jssora07r" style="width: 64px; height: 61px; top: 183px;right:0px;"></span>
+<!-- Arrow Navigator Skin End -->
+      <div u="thumbnavigator" class="jssort04" style="position: absolute; width: 600px;height: 18px; bottom: 0px;top: 594px;">
+<style>
+
+</style>
+<div u="slides" style="bottom: 25px; right: 30px;">
+<div u="prototype" class="p" style="position: absolute; width: 62px; height: 32px; top: 0; left: 0;">
+<div class="w">
+<div u="thumbnailtemplate" style="width: 100%; height: 100%; border: none; position: absolute; top: 0; left: 0;"></div>
+</div>
+<div class="c" style="position: absolute; background-color: #d11f6e; border-radius:15px;top: 0px;width:12px;height:12px; left: 0px;">
+</div>
+</div>
+</div>
+<!-- Thumbnail Item Skin End -->
+</div>
+</div>
+<!-- Jssor Slider End -->
+</div>
+</div>
+</div>
+</div>
+<div id="wrapper">
+<header>
+<div class="headerInner">
+<div id="headwrap">
+<div id="header_In" class="clearfix">
+<div id="logo">
+<a href="http://migaku.me"><img src="http://migaku.me/assets/common/img/header/logo.png" alt=""/></a>
+<h1>私が磨かれるレッスン体験動画メディア</h1>
+</div>
+<div id="head_info">
+<div class="social_icon clearfix">
+<ul class="social_helpRSS clearfix">
+<li><a href="http://migaku.me/help"><img src="http://migaku.me/assets/common/img/ico/question_ico.png" alt="help"/><span>HELP</span></a></li>
+<!--<li><a href="#"><img src="http://migaku.me/assets/common/img/ico/rss_ico.png" alt="rss"/><span>RSS</span></a></li> -->
+</ul>
+</div>
+<ul class="h_nav clear_fix">
+<li>
+<li><a href="#" id="modal-open" class="button-link"><img src="http://migaku.me/assets/common/img/ico/information_ico.png" alt=""/><span>ABOUT MIGAKU</span></a></li>
+<li><a class="nav_border" href="http://migaku.me/login/user"><img src="http://migaku.me/assets/common/img/ico/user_ico.png" alt="ユーザー登録"/><span>ユーザー登録</span></a></li>  
+<li><a class="nav_border" href="http://migaku.me/login/curator"><img src="http://migaku.me/assets/common/img/ico/curator_ico.png" alt="キュレーター登録"/><span>キュレーター登録</span></a></li>
+<li><a class="nav_border_last" href="http://migaku.me/login"><img src="http://migaku.me/assets/common/img/ico/login_ico.png" alt="ログイン"/><span>ログイン</span></a></li>
+</ul> 
+</div>
+<!--/#header_In--></div>  
+<!--/#headwrap--></div>
+</div>
+<div class="headerInner2">
+<section id="gNav" class="clearfix">
+<div class="gNavIn">
+<div id="migaku" class="fltL">
+<a href="http://migaku.me"><img src="http://migaku.me/assets/common/img/header/nav_logo.png" alt=""/></a>
+</div>
+<ul class="fltL clearfix">
+  <li id="menu_hover1" ><a href="http://migaku.me/category/view/5"><img src="http://migaku.me/assets/common/img/ico/inter_icon.png" width="16" height="12" alt=""/><span>国際的な人になる</span></a></li>
+  <li id="menu_hover2" ><a href="http://migaku.me/category/view/6"><img src="http://migaku.me/assets/common/img/ico/ideal_icon.png" width="16" height="12" alt=""/><span>理想のボディになる</span></a></li>
+  <li id="menu_hover3" ><a href="http://migaku.me/category/view/7"><img src="http://migaku.me/assets/common/img/ico/concert_icon.png" width="16" height="12" alt=""/><span>演奏会を開催する</span></a></li>
+  <li id="menu_hover4" ><a href="http://migaku.me/category/view/8"><img src="http://migaku.me/assets/common/img/ico/nature_icon.png" width="16" height="12" alt=""/><span>自然と仲良くなる</span></a></li>
+  <li id="menu_hover5" class="fltLlast_block"><a href="http://migaku.me/category/view/9"><img src="http://migaku.me/assets/common/img/ico/golf_icon.png" width="16" height="12" alt=""/><span>ゴルフを極める</span></a></li>
+  <li id="menu_hover6" ><a href="http://migaku.me/category/view/10"><img src="http://migaku.me/assets/common/img/ico/extra_icon.png" width="16" height="12" alt=""/><span>非日常を体験する</span></a></li>
+  <li id="menu_hover7" ><a href="http://migaku.me/category/view/11"><img src="http://migaku.me/assets/common/img/ico/beauty_icon.png" width="16" height="12" alt=""/><span>もっと綺麗になる</span></a></li>
+  <li id="menu_hover8" ><a href="http://migaku.me/category/view/12"><img src="http://migaku.me/assets/common/img/ico/charm_icon.png" width="16" height="12" alt=""/><span>日本の魅力を知る</span></a></li>
+</ul>
+</div>
+</section>
+</div>
+</header>
+<!--/header-->
+<style type="text/css">
+.date-sunday   .ui-state-default {
+  background-image: none; background-color: #FF9999
+}
+.date-saturday .ui-state-default {
+  background-image: none; background-color: #66CCFF
+}
+.date-holiday0 .ui-state-default {
+  background-image: none; background-color: #FF99FF
+}
+.date-holiday1 .ui-state-default {
+  background-image: none; background-color: #FFFF33
+}
+</style>
+
+<link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.3/themes/smoothness/jquery-ui.css" />
+<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.3/jquery-ui.min.js"></script>
+<script type="text/javascript" src="http://migaku.me/assets/js/jquery-dateFormat.min.js"></script>
+<script type="text/javascript" src="http://migaku.me/assets/js/datepicker.js"></script>
+
+<div id="contents">
+<section class="main">
+<div id="login">
+<section class="breadcumb clearfix">
+<section class="wrapbg">
+<ul><li><a href="http://migaku.me">TOP</a></li><li>&nbsp;&gt;&nbsp;</li><li>体験レッスンお申し込み</li></ul>
+</section>
+</section>
+<h4 class="registration_ttl">体験レッスンお申し込み</h4>
+<div class="login_sec01">
+<div class="loginWrap clearfix">
+<div class="login_left">
+<div id="loginArea">
+<p class="loginttl" id="text_font17"></p>
+
+
+<form action="http://migaku.me/form/confirm" method="POST">
+  <input type="text" name="name" placeholder="お名前" value="">
+<input type="text" name="hurigana" placeholder="フリガナ">
+<input type="text" name="email" placeholder="Email">
+<input type="text" name="sex" placeholder="性別">
+<input type="text" name="tel" placeholder="電話">
+<h4>第一希望日</h4>
+<input type="text" name="first" class="datepicker"> 
+<select name="firsttime">
+<option value="指定なし">----</option>
+<option value="9:00~12:00">9:00~12:00</option>
+<option value="13:00~17:00">13:00~17:00</option>
+<option value="17:00~20:00">17:00~20:00</option>
+<option value="20:00~">20:00~</option>
+</select>
+<br>
+<br>
+<h4>第ニ希望日</h4>
+<input type="text" name="second" class="datepicker">
+<select name="secondtime">
+<option value="指定なし">----</option>
+<option value="9:00~12:00">9:00~12:00</option>
+<option value="13:00~17:00">13:00~17:00</option>
+<option value="17:00~20:00">17:00~20:00</option>
+<option value="20:00~">20:00~</option>
+</select>
+ <br>
+<br>
+<h4>第三希望日</h4>
+<input type="text" name="third" class="datepicker">
+<select name="thirdtime">
+<option value="指定なし">----</option>
+<option value="9:00~12:00">9:00~12:00</option>
+<option value="13:00~17:00">13:00~17:00</option>
+<option value="17:00~20:00">17:00~20:00</option>
+<option value="20:00~">20:00~</option>
+</select>
+<br>
+<br>
+
+<textarea rows="5" name="content" placeholder="備考"></textarea>
+<input type="hidden" name="postId" value="106">
+<!--<a class="detail_application_btn" href="#"><span class="detail_apply_txt" id="txt_center">送信</span></a>
+-->
+<div class="">
+<button class="submit_button" type="submit">送信</button>
+</div>
+
+ </form>
+</div>
+</div>
+</div>
+</div>
+<!--/#login--></div>
+</section>
+
+</div>
+<!--/#contents-->
+<div class="social_banner">
+<ul><li class="facebook"><a href="#"><img src="http://migaku.me/assets/common/img/ico/facebook_icon.png" class="icon-facebook" alt=""/></a></li>
+<li class="twitter"><a href="#"><img src="http://migaku.me/assets/common/img/ico/twitter_icon.png" class="icon-twitter" alt=""/></a></li>
+<li class="google_plus"><a href="#"><img src="http://migaku.me/assets/common/img/ico/google_plus_icon.png" class="icon-google-plus" alt=""/></a></li></ul>
+</div>
+<div class="pagetop clearfix">
+<div class="up-arrow" id="up-arrow">
+<a href="#" class="scroll"><img src="http://migaku.me/assets/common/img/footer/arrow_up.png" alt="arrow_up" /></a><!-- <img src="image/arrow-up.png" alt="" /> -->
+</div>
+</div><!-- pagetop -->
+
+<script type="text/javascript">
+
+var holidays = {
+  };
+// 毎年書き換える部分 ココマデ
+//
+$(function() {
+// 毎年書き換える部分 ココカラ
+  /* javascriptのDate関数に与える月は、0〜11であることに注意 */
+  var minD = new Date(2015,1,1);   //カレンダーでピックアップできる最前の日
+  var maxD = new Date(2015,12,31); //カレンダーでピックアップできる最後の日
+  
+  // この例では、"datepicker"というclassを持つテキストフィールドにdatepickerを挿入する
+  $(".datepicker").datepicker({
+    // 選択後にテキストフィールドに入力される日付のフォーマット。なぜかyyが4桁の年を意味する。。。
+    dateFormat: "yy-mm-dd", 
+    minDate: minD,
+    maxDate: maxD,
+    beforeShowDay: function(day) {
+      var result;
+        switch (day.getDay()) {
+          case 0: // 日曜日か？
+            result = [false, "date-sunday"];
+            break;
+          case 1: // 日曜日か？
+            result = [true, "date-sunday"];
+            break;
+          case 2: // 日曜日か？
+            result = [true, "date-sunday"];
+            break;
+          case 3: // 日曜日か？
+            result = [true, "date-sunday"];
+            break;
+          case 4: // 日曜日か？
+            result = [true, "date-sunday"];
+            break;
+          case 5: // 日曜日か？
+            result = [true, "date-sunday"];
+            break;
+          case 6: // 土曜日か？
+            result = [true, "date-saturday"];
+            break;
+          default:
+            result = [true, ""];
+            break;
+        }
+      var holiday = holidays[$.format.date(day, "yyyyMMdd")]
+      // 祝日・非営業日定義に存在するか？
+      if (holiday) {
+        result =  [false, "date-holiday"+holiday.type, holiday.title];
+      } 
+
+
+      return result;
+    }
+  });
+});
+</script>
+
+
+<footer>
+<section>
+<div id="cont02">
+<div id="btnArea02" class="clearfix">
+<ul>
+<li><a href="http://migaku.me/otoiawase">お問い合わせ |</a></li>  
+<li><a href="http://www.cypher-point.co.jp/" target="blank">会社概要 |</a></li>
+<li><a href="http://migaku.me/term">利用規約</a></li>
+</ul> 
+</div>
+</div>
+<!--/ id cont03--> 
+</section>
+<div id="footer-menu">
+Copyright (c) ○○○○○○○ Co.,Ltd. All Rights Reserved.
+</div>
+</footer>
+<!--/ wrapper--> </div>
+</body>
+</html>

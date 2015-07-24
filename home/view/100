@@ -1,0 +1,436 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>ゴルフを極める|MIGAKU</title>
+<meta name="description" content="" />
+<meta name="author" content="user" />
+<meta name="keywords" content="">
+<link rel="apple-touch-icon" href="http://migaku.me/assets/common/img/ico/favicon.png" />
+<link rel="stylesheet" type="text/css" href="http://migaku.me/assets/common/css/import.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://migaku.me/assets/css/pc/style.css" media="all" />
+<script type="text/javascript" src="http://migaku.me/assets/common/js/jquery-1.9.1.js" ></script>
+<script type="text/javascript" src="http://migaku.me/assets/common/js/custom.js"></script>
+<script type="text/javascript" src="http://migaku.me/assets/common/js/smart-crossfade.js"></script>
+<script type="text/javascript" src="http://migaku.me/assets/common/js/modal.js"></script>
+<script type="text/javascript" src="http://migaku.me/assets/common/js/jquery.min.js"></script>
+<script type="text/javascript" src="http://migaku.me/assets/common/js/html5.js"></script>
+<script type="text/javascript" src="http://migaku.me/assets/common/js/custom_jssor.js"></script>
+<script type="text/javascript" src="http://migaku.me/assets/common/js/jssor.slider.js"></script>
+<script type="text/javascript" src="http://migaku.me/assets/common/js/jssor.js"></script>
+</head>
+<body id="home">
+<div id="modal-content">
+
+<p><a id="modal-close" class="button-link"><img src="http://migaku.me/assets/img/pc/about/modal_close.png" alt=""/></a></p>
+<div id="top02voice">
+<div style="position: relative; width: 100%;overflow: hidden;">
+<div style="position: relative; left: 50%; width: 5000px; text-align: center; margin-left: -2500px;">
+<!-- Jssor Slider Begin -->
+<div id="slidermodal_container">
+<!-- Slides Container -->
+<div u="slides" class="slidermodal_containerIn">
+<div class="modal_bg1">
+<img src="http://migaku.me/assets/img/pc/about/about_bnr_01.jpg" style="position: absolute; top: 0px; left: 0px; width: 482px; height: 520px;" />
+<p u="thumb"> </p>
+<div style="position: absolute; width: 382px; height: 330px; top: 204px;right:0px;
+text-align: left; font-size: 12px;">
+<span style="display: block;font-size: 16px;width:279px;margin:0 auto;">#001<br/><span class="modal_ttl01">心も一緒に磨かれる。</span><br/>東京都 Y様</span>
+<br />
+<span class="modal_txt">
+テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。
+</span>
+<br />
+<span class="modal_txt02">
+教室名教室名教室名教室名教室名<br/>
+〒0000000<br/>
+東京都世田谷区1-1-0 
+</span>
+</div>
+</div>
+<div class="modal_bg1">
+<img src="http://migaku.me/assets/img/pc/about/about_bnr_02.jpg" style="position: absolute; top: 0px; left: 0px; width: 482px; height: 520px;" />
+<p u="thumb"> </p>
+<div style="position: absolute; width: 382px; height: 330px; top: 204px;right:0px;
+text-align: left; font-size: 12px;">
+<span style="display: block;font-size: 16px;width:279px;margin:0 auto;">#002<br/><span class="modal_ttl01">海外へ一人旅。</span><br/>東京都 Y様</span>
+<br />
+<span class="modal_txt">
+テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。
+</span>
+<br />
+<span class="modal_txt02">
+教室名教室名教室名教室名教室名<br/>
+〒0000000<br/>
+東京都世田谷区1-1-0 
+</span>
+</div>
+</div>
+
+
+<div class="modal_bg1">
+<img src="http://migaku.me/assets/img/pc/about/about_bnr_03.jpg" style="position: absolute; top: 0px; left: 0px; width: 482px; height: 520px;" />
+<p u="thumb"> </p>
+<div style="position: absolute; width: 382px; height: 330px; top: 204px;right:0px;
+text-align: left; font-size: 12px;">
+<span style="display: block;font-size: 16px;width:279px;margin:0 auto;">#003<br/><span class="modal_ttl01">3ヶ月でコースデビュー。</span><br/>東京都 Y様</span>
+<br />
+<span class="modal_txt">
+テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。テキストが入ります。
+</span>
+<br />
+<span class="modal_txt02">
+教室名教室名教室名教室名教室名<br/>
+〒0000000<br/>
+東京都世田谷区1-1-0 
+</span>
+</div>
+</div>
+</div>
+<span u="arrowleft" class="jssora07l" style="width: 64px; height: 61px; top: 183px;left:0px;"></span>
+<!-- Arrow Right -->
+<span u="arrowright" class="jssora07r" style="width: 64px; height: 61px; top: 183px;right:0px;"></span>
+<!-- Arrow Navigator Skin End -->
+      <div u="thumbnavigator" class="jssort04" style="position: absolute; width: 600px;height: 18px; bottom: 0px;top: 594px;">
+<style>
+
+</style>
+<div u="slides" style="bottom: 25px; right: 30px;">
+<div u="prototype" class="p" style="position: absolute; width: 62px; height: 32px; top: 0; left: 0;">
+<div class="w">
+<div u="thumbnailtemplate" style="width: 100%; height: 100%; border: none; position: absolute; top: 0; left: 0;"></div>
+</div>
+<div class="c" style="position: absolute; background-color: #d11f6e; border-radius:15px;top: 0px;width:12px;height:12px; left: 0px;">
+</div>
+</div>
+</div>
+<!-- Thumbnail Item Skin End -->
+</div>
+</div>
+<!-- Jssor Slider End -->
+</div>
+</div>
+</div>
+</div>
+<div id="wrapper">
+<header>
+<div class="headerInner">
+<div id="headwrap">
+<div id="header_In" class="clearfix">
+<div id="logo">
+<a href="http://migaku.me"><img src="http://migaku.me/assets/common/img/header/logo.png" alt=""/></a>
+<h1>私が磨かれるレッスン体験動画メディア</h1>
+</div>
+<div id="head_info">
+<div class="social_icon clearfix">
+<ul class="social_helpRSS clearfix">
+<li><a href="http://migaku.me/help"><img src="http://migaku.me/assets/common/img/ico/question_ico.png" alt="help"/><span>HELP</span></a></li>
+<!--<li><a href="#"><img src="http://migaku.me/assets/common/img/ico/rss_ico.png" alt="rss"/><span>RSS</span></a></li> -->
+</ul>
+</div>
+<ul class="h_nav clear_fix">
+<li>
+<li><a href="#" id="modal-open" class="button-link"><img src="http://migaku.me/assets/common/img/ico/information_ico.png" alt=""/><span>ABOUT MIGAKU</span></a></li>
+<li><a class="nav_border" href="http://migaku.me/login/user"><img src="http://migaku.me/assets/common/img/ico/user_ico.png" alt="ユーザー登録"/><span>ユーザー登録</span></a></li>  
+<li><a class="nav_border" href="http://migaku.me/login/curator"><img src="http://migaku.me/assets/common/img/ico/curator_ico.png" alt="キュレーター登録"/><span>キュレーター登録</span></a></li>
+<li><a class="nav_border_last" href="http://migaku.me/login"><img src="http://migaku.me/assets/common/img/ico/login_ico.png" alt="ログイン"/><span>ログイン</span></a></li>
+</ul> 
+</div>
+<!--/#header_In--></div>  
+<!--/#headwrap--></div>
+</div>
+<div class="headerInner2">
+<section id="gNav" class="clearfix">
+<div class="gNavIn">
+<div id="migaku" class="fltL">
+<a href="http://migaku.me"><img src="http://migaku.me/assets/common/img/header/nav_logo.png" alt=""/></a>
+</div>
+<ul class="fltL clearfix">
+  <li id="menu_hover1" ><a href="http://migaku.me/category/view/5"><img src="http://migaku.me/assets/common/img/ico/inter_icon.png" width="16" height="12" alt=""/><span>国際的な人になる</span></a></li>
+  <li id="menu_hover2" ><a href="http://migaku.me/category/view/6"><img src="http://migaku.me/assets/common/img/ico/ideal_icon.png" width="16" height="12" alt=""/><span>理想のボディになる</span></a></li>
+  <li id="menu_hover3" ><a href="http://migaku.me/category/view/7"><img src="http://migaku.me/assets/common/img/ico/concert_icon.png" width="16" height="12" alt=""/><span>演奏会を開催する</span></a></li>
+  <li id="menu_hover4" ><a href="http://migaku.me/category/view/8"><img src="http://migaku.me/assets/common/img/ico/nature_icon.png" width="16" height="12" alt=""/><span>自然と仲良くなる</span></a></li>
+  <li id="menu_hover5" class="fltLlast_block"><a href="http://migaku.me/category/view/9"><img src="http://migaku.me/assets/common/img/ico/golf_icon.png" width="16" height="12" alt=""/><span>ゴルフを極める</span></a></li>
+  <li id="menu_hover6" ><a href="http://migaku.me/category/view/10"><img src="http://migaku.me/assets/common/img/ico/extra_icon.png" width="16" height="12" alt=""/><span>非日常を体験する</span></a></li>
+  <li id="menu_hover7" ><a href="http://migaku.me/category/view/11"><img src="http://migaku.me/assets/common/img/ico/beauty_icon.png" width="16" height="12" alt=""/><span>もっと綺麗になる</span></a></li>
+  <li id="menu_hover8" ><a href="http://migaku.me/category/view/12"><img src="http://migaku.me/assets/common/img/ico/charm_icon.png" width="16" height="12" alt=""/><span>日本の魅力を知る</span></a></li>
+</ul>
+</div>
+</section>
+</div>
+</header>
+<!--/header-->
+<div id="contents">
+<section class="main">
+<section class="breadcumb clearfix">
+<section class="wrapbg">
+<ul><li><a href="http://migaku.me">TOP</a></li><li>&nbsp;&gt;&nbsp;</li>
+<li>
+<a href="http://migaku.me/category/view/12">日本の魅力を知る </a> 
+ 
+</li>
+<li>&nbsp;&gt;&nbsp;</li><li>京都スクール</li></ul>
+</section>
+</section>
+<div class="detailsec clearfix">
+<div class="detailmain clearfix">
+<h2 class="detail_ttl">京都 紅葉絶景 2014 泉涌寺 山内寺院 今熊野観音寺</h2>
+<div class="detail_In clearfix">
+<div class="detail_box01">
+<a href="http://migaku.me/category/view/12">
+<img src="http://migaku.me/assets/img/pc/detail/g_diamond.png" class="g_diamond" alt="g_diamond">
+<strong class="detail_t1">日本の魅力を知る</strong>
+</a>
+
+<span class="detail_t2">53PV</span>
+<!-- /.detail_box01 --></div>
+<div class="detail_box02">
+<p>2015-07-24 <br />
+akiko</p>
+<!-- /.detail_box02 --></div>
+<!-- /.detail_In --></div>
+
+    <iframe style="width:100%;height:400px" width="420" height="315" src="https://www.youtube.com/embed/JA8W_lcEx_E" frameborder="0" allowfullscreen></iframe>
+<p style="margin-top:20px;"><h1 class="yt watch-title-container" style="margin-top: 0px; margin-bottom: 13px; padding: 0px; border: 0px; font-size: 24px; display: table-cell; vertical-align: top; width: 610px; color: rgb(34, 34, 34); line-height: normal; word-wrap: break-word; font-family: Roboto, arial, sans-serif; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;"><span id="eow-title" class="watch-title " dir="ltr" title="京都 紅葉絶景 2014  泉涌寺 山内寺院 今熊野観音寺／Autumn Leaf Color in IMAKUMANOKANNONJI-temple Kyoto JAPAN 2014" style="margin: 0px; padding: 0px; border: 0px; background: transparent;">京都 紅葉絶景 2014 泉涌寺 山内寺院 今熊野観音寺</span></h1></p>
+
+<p class="detail_t3"></p>
+<div class="detail_btn">
+<a class="detail_application_btn" href="http://migaku.me/form/?id=100"><span class="detail_apply_img"><img src="http://migaku.me/assets/img/pc/detail/apply_btn.png"  alt="application button"/></span ><span class="detail_apply_txt">体験レッスンを申し込む</span></a>
+<!-- /.detail_btn --></div>
+<div class="detail_box03">
+<h3 class="detail_ttl01">京都スクール</h3>
+<p class="detail_t4">〒111-1111　<br/>
+TEL: </p>
+<a href="" class="detail_link"></a>
+<!-- /.detail_box03 --></div>
+<div class="detail_box04 clearfix">
+<div class="detail_box05">
+<!-- /.detail_box05 --></div>
+<div class="detail_box06">
+<p class="detail_t5">
+</p>
+<!-- /.detail_box06 --></div>
+<!-- /.detail_box04 --></div>
+<h3 class="detail_ttl01">関連するタグ</h3>
+<ul class="clearfix">
+</ul>
+<div class="detail_social clearfix">
+<ul class="clearfix">
+<li><a class="facebook" href="#"><img src="http://migaku.me/assets/img/pc/detail/detail_facebook_icon.png" class="icon-facebook" alt=""/></a></li>
+<li><a class="twitter" href="#"><img src="http://migaku.me/assets/img/pc/detail/detail_twitter_icon.png" class="icon-twitter" alt=""/></a></li>
+<li><a class="google-plus" href="#"><img src="http://migaku.me/assets/img/pc/detail/detail_google_plus_icon.png" class="icon-google-plus" alt=""/></a></li>
+</ul>
+<!-- /.detail_social --></div>
+</div>
+
+<div class="detailaside clearfix">
+
+<h3 class="detailtitle">関連動画</h3>
+<div class="detailasidesec01 block_link" onclick="location.href='http://migaku.me/home/view/98';">
+<a href="http://migaku.me/home/view/98"><img src="http://migaku.me/assets/movie/073b98b91c0d7df73adcce50627c6d3d.JPG" alt="mainimg_detail05" style="width:100%;" /></a>
+
+<div class="blockIcongolf" id="charmIcon">
+<p>
+22</p>
+<p class="pageView">
+PV
+</p>
+</div>
+
+<h3 class="detailtxt">
+<a href="http://migaku.me/home/view/98">
+京都のおすすめラーメン</a>
+</h3>
+</div>
+
+<div class="detailasidesec01 block_link" onclick="location.href='http://migaku.me/home/view/101';">
+<a href="http://migaku.me/home/view/101"><img src="http://migaku.me/assets/movie/b3fa86e505a23d47312b21e4d0d131f0.PNG" alt="mainimg_detail05" style="width:100%;" /></a>
+
+<div class="blockIcongolf" id="charmIcon">
+<p>
+10</p>
+<p class="pageView">
+PV
+</p>
+</div>
+
+<h3 class="detailtxt">
+<a href="http://migaku.me/home/view/101">
+京都のおいしいグルメ</a>
+</h3>
+</div>
+
+<div class="detailasidesec01 block_link" onclick="location.href='http://migaku.me/home/view/102';">
+<a href="http://migaku.me/home/view/102"><img src="http://migaku.me/assets/movie/f6e9e88773fa2491541eb1302409fe00.PNG" alt="mainimg_detail05" style="width:100%;" /></a>
+
+<div class="blockIcongolf" id="charmIcon">
+<p>
+57</p>
+<p class="pageView">
+PV
+</p>
+</div>
+
+<h3 class="detailtxt">
+<a href="http://migaku.me/home/view/102">
+京都の紅葉とライトアップ</a>
+</h3>
+</div>
+
+<div class="detailasidesec01 block_link" onclick="location.href='http://migaku.me/home/view/103';">
+<a href="http://migaku.me/home/view/103"><img src="http://migaku.me/assets/movie/0bdb810633ac0a80df6012c742eca0ce.PNG" alt="mainimg_detail05" style="width:100%;" /></a>
+
+<div class="blockIcongolf" id="charmIcon">
+<p>
+55</p>
+<p class="pageView">
+PV
+</p>
+</div>
+
+<h3 class="detailtxt">
+<a href="http://migaku.me/home/view/103">
+京都の和菓子</a>
+</h3>
+</div>
+
+<div class="detailasidesec01 block_link" onclick="location.href='http://migaku.me/home/view/104';">
+<a href="http://migaku.me/home/view/104"><img src="http://migaku.me/assets/movie/cdfe3c8148c76893f7f9a6e6fc5d228a.PNG" alt="mainimg_detail05" style="width:100%;" /></a>
+
+<div class="blockIcongolf" id="charmIcon">
+<p>
+143</p>
+<p class="pageView">
+PV
+</p>
+</div>
+
+<h3 class="detailtxt">
+<a href="http://migaku.me/home/view/104">
+京都の桜</a>
+</h3>
+</div>
+
+<div class="detailasidesec01 block_link" onclick="location.href='http://migaku.me/home/view/105';">
+<a href="http://migaku.me/home/view/105"><img src="http://migaku.me/assets/movie/ae245c207e857bbb18bcafe5cbf68e71.PNG" alt="mainimg_detail05" style="width:100%;" /></a>
+
+<div class="blockIcongolf" id="charmIcon">
+<p>
+74</p>
+<p class="pageView">
+PV
+</p>
+</div>
+
+<h3 class="detailtxt">
+<a href="http://migaku.me/home/view/105">
+舞妓さん</a>
+</h3>
+</div>
+
+<div class="detailasidesec01 block_link" onclick="location.href='http://migaku.me/home/view/106';">
+<a href="http://migaku.me/home/view/106"><img src="http://migaku.me/assets/movie/b78280a497a73da6f0b09ff50f5cc84d.PNG" alt="mainimg_detail05" style="width:100%;" /></a>
+
+<div class="blockIcongolf" id="charmIcon">
+<p>
+46</p>
+<p class="pageView">
+PV
+</p>
+</div>
+
+<h3 class="detailtxt">
+<a href="http://migaku.me/home/view/106">
+祇園の街並み</a>
+</h3>
+</div>
+
+<div class="detailasidesec01 block_link" onclick="location.href='http://migaku.me/home/view/107';">
+<a href="http://migaku.me/home/view/107"><img src="http://migaku.me/assets/movie/22860a8fd1d78b6975b7d4ec26db352f.PNG" alt="mainimg_detail05" style="width:100%;" /></a>
+
+<div class="blockIcongolf" id="charmIcon">
+<p>
+55</p>
+<p class="pageView">
+PV
+</p>
+</div>
+
+<h3 class="detailtxt">
+<a href="http://migaku.me/home/view/107">
+銀閣寺</a>
+</h3>
+</div>
+
+<div class="detailasidesec01 block_link" onclick="location.href='http://migaku.me/home/view/108';">
+<a href="http://migaku.me/home/view/108"><img src="http://migaku.me/assets/movie/0c995be1c552813bd26df8dd58087417.PNG" alt="mainimg_detail05" style="width:100%;" /></a>
+
+<div class="blockIcongolf" id="charmIcon">
+<p>
+52</p>
+<p class="pageView">
+PV
+</p>
+</div>
+
+<h3 class="detailtxt">
+<a href="http://migaku.me/home/view/108">
+京都のみどころ</a>
+</h3>
+</div>
+
+<div class="detailasidesec01 block_link" onclick="location.href='http://migaku.me/home/view/109';">
+<a href="http://migaku.me/home/view/109"><img src="http://migaku.me/assets/movie/adc45fb4f432de2b92a12eb115d3b57c.PNG" alt="mainimg_detail05" style="width:100%;" /></a>
+
+<div class="blockIcongolf" id="charmIcon">
+<p>
+121</p>
+<p class="pageView">
+PV
+</p>
+</div>
+
+<h3 class="detailtxt">
+<a href="http://migaku.me/home/view/109">
+京都の包丁職人</a>
+</h3>
+</div>
+
+</div>
+
+</div>
+
+
+</div>
+<!--/#contents-->
+<div class="social_banner">
+<ul><li class="facebook"><a href="#"><img src="http://migaku.me/assets/common/img/ico/facebook_icon.png" class="icon-facebook" alt=""/></a></li>
+<li class="twitter"><a href="#"><img src="http://migaku.me/assets/common/img/ico/twitter_icon.png" class="icon-twitter" alt=""/></a></li>
+<li class="google_plus"><a href="#"><img src="http://migaku.me/assets/common/img/ico/google_plus_icon.png" class="icon-google-plus" alt=""/></a></li></ul>
+</div>
+<div class="pagetop clearfix">
+<div class="up-arrow" id="up-arrow">
+<a href="#" class="scroll"><img src="http://migaku.me/assets/common/img/footer/arrow_up.png" alt="arrow_up" /></a>
+</div>
+</div><!-- pagetop -->
+
+<footer>
+<section>
+<div id="cont02">
+<div id="btnArea02" class="clearfix">
+<ul>
+<li><a href="http://migaku.me/otoiawase">お問い合わせ |</a></li>  
+<li><a href="http://www.cypher-point.co.jp/" target="blank">会社概要 |</a></li>
+<li><a href="http://migaku.me/term">利用規約</a></li>
+</ul> 
+</div>
+</div>
+<!--/ id cont03--> 
+</section>
+<div id="footer-menu">
+Copyright (c) ○○○○○○○ Co.,Ltd. All Rights Reserved.
+</div>
+</footer>
+<!--/ wrapper--> </div>
+</body>
+</html>

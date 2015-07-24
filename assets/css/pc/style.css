@@ -1,0 +1,243 @@
+@charset "UTF-8";
+@import url(common/css/import.css);
+/*--------------------------------------
+ top.css
+ --------------------------------------*/
+.blockIcon {
+	width: 70px;
+	background: #1f8c90;
+	position: absolute;
+	top: 0px;
+	font-size: 16px;
+	vertical-align: middle;
+	text-align: center;
+	padding: 20px 0px 17px 0px;
+}
+.blockIcon  p {
+	line-height: 1em;
+	color: #fff;
+}
+.blockIcongolf {
+	width: 56px;
+	background: #1f8c90;
+	position: absolute;
+	top: 0px;
+	font-size: 16px;
+	vertical-align: middle;
+	text-align: center;
+	padding: 15px 0px 8px 0px;
+}
+.blockIcongolf  p {
+	line-height: 1em;
+	color: #fff;
+}
+.pageView {
+	padding: 5px 0 0 0;
+	font-size: 12px;
+	line-height:1em;
+	display:block;
+	color: #fff;
+}
+#charmIcon {
+	background: #1f3a90;
+}
+#extraIcon {
+	background: #6ecbe9;
+}
+#idealIcon {
+	background: #ff9454;
+}
+#concertIcon {
+	background: #f9ee61;
+}
+#interIcon {
+	background: #f96767;
+}
+.topsec01 {
+	width: 950px;
+	margin: 17px 0 0 0;
+}
+.topsec01Left {
+	width: 630px;
+	float: left;
+	position: relative;
+	background: #ffffff;
+}
+.topsec01Right {
+	width: 310px;
+	float: right;
+}
+.paragraph {
+	width: 565px;
+	margin: 0 auto;
+	display: block;
+	text-decoration:none;
+	
+}
+.paragraph:hover {
+		text-decoration:none;
+	
+}
+.paragraph h3 {
+	font-size: 18px;
+	font-family: "Meiryo";
+	font-weight: bold;
+	padding: 23px 0 11px 0;
+}
+.paragraph p {
+	font-size: 12px;
+	padding: 0 0 24px 0;
+}
+.rightsec01 {
+	background: #ffffff;
+	position: relative;
+}
+.rightsec01 img
+{
+display:block;
+}
+.rightsec01 h3 {
+	font-size: 13px;
+	font-weight: bold;
+	text-align: center;
+	padding: 18px 0 17px 0;
+}
+/*topsec02*/
+.topsec02 {
+	margin: 10px 0 0 0;
+}
+.topsec02Left {
+	width: 310px;
+	float: left;
+}
+.topsec02Right {
+	width: 630px;
+	float: right;
+	position: relative;
+	background: #ffffff;
+}
+/*topsec03*/
+.topsec03 {
+	margin: 10px 0 0 0;
+}
+.topsec03bl01 {
+	width: 240px;
+	float: left;
+}
+.topsec03bl02 {
+	width: 240px;
+	float: left;
+}
+.topsec03bl03 {
+	width: 240px;
+	float: left;
+}
+/*topsec04*/
+.topsec04 {
+	margin: 10px 0 0 0;
+}
+.topsec03bl04 {
+	width: 230px;
+	float: left;
+}
+.topsec03In {
+	width: 230px;
+	background: #ffffff;
+	position: relative;
+}
+.topsec03In h3 {
+	color: #666666;
+	font-size: 13px;
+	font-weight: bold;
+	text-align: center;
+	padding: 18px 0 17px 0;
+}
+.topsec04Left {
+	width: 469px;
+	float: left;
+	position: relative;
+	background: #ffffff;
+}
+.topsec04Right {
+	width: 469px;
+	float: right;
+	position: relative;
+	background: #ffffff;
+}
+.paragraph02 {
+	width: 408px;
+	margin: 0 auto
+}
+.paragraph02 h3 {
+	font-size: 18px;
+	font-family: "Meiryo";
+	font-weight: bold;
+	padding: 23px 0 11px 0;
+}
+.paragraph02 p {
+	font-size: 12px;
+	padding: 0 0 24px 0;
+}
+.learnmore {
+	width: 160px;
+	margin: 0 auto;
+	padding: 38px 0 38px 0;
+}
+.learnmorebtn {
+	padding: 0;
+	border: 0;
+	background: none;
+	outline: none;
+	cursor:pointer;
+}
+/*--------------------------------------
+ pagetop
+ --------------------------------------*/
+.pagetop {
+	float: right;
+	padding: 80px 71px 20px 0;
+}
+body {
+	position: relative;
+}
+#scroll_top {
+	float: right !important;
+	height: auto;
+	z-index: 99;
+	padding: 50px 0px 50px 0px !important;
+}
+.up-arrow {
+	width: 74px;
+height: 72px;
+	position: fixed;
+	margin: 0 auto;
+	bottom: 40px;
+	right: 40px;
+	display: none;
+	cursor: pointer;
+}
+.right_sec01head
+{
+font-size: 13px;
+font-weight: bold;
+text-align: center;
+padding: 18px 0 17px 0;
+display:block;
+}
+
+.submit_button{
+  width: 350px;
+  height: 80px;
+  display: block;
+  background: #d11f6e;
+  font-size: 18px;
+  color: #fff;
+  border: none;
+}
+
+footer{
+  margin-top:30px;
+}
+
+.detailmain img{
+}

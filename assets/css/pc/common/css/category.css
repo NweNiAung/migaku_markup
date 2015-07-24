@@ -1,0 +1,515 @@
+@charset "UTF-8";
+
+/*------------   login.css   -------------------------*/
+#login .registration_ttl {
+font-size: 25px;
+font-weight: bold;
+padding: 20px 0px 20px 25px;
+background: url(../../common/img/bg/register_ttlbg.png);
+margin-bottom: 38px;
+}
+#login .caution {
+color: #666666;
+font-size: 14px;
+line-height: 1.3em;
+}
+.user_login_btn
+{
+margin-top: 58px;
+display: block;
+font-size:15px;
+font-family:"Meiryo";
+text-decoration:underline;
+color:#21b5b7;
+}
+#loginArea .detail_apply_txt
+{
+
+}
+#loginArea .detail_apply_img
+{
+padding-left: 45px;
+}
+#login .caution span {
+text-decoration: underline;
+color: #21b5b7;
+}
+#login .caution span a {
+text-decoration: underline;
+color: #21b5b7;
+}
+
+#login .login_left{
+width: 351px;
+float: left;
+}
+#login .login_left .facebook{
+margin: 40px 38px 58px 0px;
+width: 310px;
+}
+#login .login_right{
+width: 351px;
+}
+#login #loginArea input[type=text]:hover, input[type=password]:hover {
+border: 1px solid #b9b9b9;
+border-top: 1px solid #a0a0a0;
+-moz-box-shadow: inset 0 1px 2px rgba(0,0,0,0.1);
+-webkit-box-shadow: inset 0 1px 2px rgba(0,0,0,0.1);
+box-shadow: inset 0 1px 2px rgba(0,0,0,0.1);
+}
+#login #loginArea input[type=text] {
+height: 47px;
+font-size: 16px;
+width: 351px;
+margin-bottom: 21px;
+-webkit-appearance: none;
+background: #fff;
+border: 1px solid #dbd4cc;
+border-top: 1px solid #c0c0c0;
+padding: 0 8px;
+box-sizing: border-box;
+-moz-box-sizing: border-box;
+font-family: 'Meiryo';
+}
+#login #loginArea input[type=password] {
+height: 47px;
+font-size: 16px;
+width: 351px;
+margin-bottom: 31px;
+-webkit-appearance: none;
+background: #fff;
+border: 1px solid #d9d9d9;
+border-top: 1px solid #c0c0c0;
+padding: 0 8px;
+box-sizing: border-box;
+-moz-box-sizing: border-box;
+font-family: 'Meiryo';
+}
+#login .login-submit {
+border: 0px;
+color: #fff;
+text-shadow: 0 1px rgba(0,0,0,0.1);
+background: url(../../img/login/login_btn.jpg) no-repeat;
+width: 350px;
+height: 81px;
+text-indent: -9999px;
+display: block;
+margin-bottom: 58px;
+}
+#login .loginttl {
+font-size: 18px;
+font-weight: bold;
+font-weight: bold;
+padding-bottom: 12px;
+}
+
+#login .login_right{
+width: 470px;
+background: #e0dfdd;
+height: 534px;
+float: right;
+}
+#login .login_right p{
+padding-top: 220px;
+text-align: center;
+font-size: 20px;
+}
+/*------------   detail.css   -------------------------*/
+.detailmain{
+	width: 670px;
+	float: left;
+}
+.detailaside{
+	width: 230px;
+	float: right;
+}
+.detailtitle{
+	font-size: 15px;
+	font-family: "Meiryo";
+	color: #666666;
+	font-weight:bold;
+	margin: 0 0 10px 0;
+}
+.detailasidesec01{
+	position: relative;
+	background: #ffffff;
+	margin: 10px 0 0 0;
+}
+.detailtxt{
+	font-size: 13px;
+font-weight: bold;
+text-align: center;
+padding: 18px 0 17px 0;
+}
+
+/*--------------------------------------
+ detail.css
+ --------------------------------------*/
+ .detail_ttl  {
+ 	font-family: 'Meiryo';
+ 	font-size: 25px;
+ 	font-weight: bold;
+ 	color: #666666;
+ 	padding: 0 0 42px 0;
+	display:block;
+ }
+ /* application btn-----------------
+------------------------------------------------
+-------------------------------------------*/
+.facebook .detail_application_btn
+{
+width: 350px;
+height: 70px;
+display: block;
+background: #4c6eaa;
+}
+.facebook  .detail_application_btn:hover
+{
+text-decoration:none;
+}
+.facebook .detail_apply_txt
+{
+font-size:16px;
+font-family:'Meiryo';
+font-weight:bold;
+color:#fff;
+padding-top: 27px;
+display: block;
+}
+.facebook .detail_apply_img
+{
+float:left;
+padding: 17px 17px 0px 27px;
+}
+
+.detail_application_btn
+{
+width: 350px;
+height: 80px;
+display: block;
+background: #d11f6e;
+}
+.detail_application_btn:hover
+{
+text-decoration:none;
+}
+.detail_apply_txt
+{
+font-size:22px;
+font-family:'Meiryo';
+font-weight:bold;
+color:#fff;
+padding-top: 27px;
+display: block;
+}
+.detail_apply_img
+{
+float:left;
+padding: 17px 12px 0px 25px;
+}
+ .detail_ttl a:hover
+{
+text-decoration:none;
+
+} 
+
+ .detail_In {
+ 	margin: 0 auto;
+ 	padding: 0 0 22px 0;
+ }
+ .detail_box01 {
+float: left;
+ }
+ .detail_t1 {
+float: left;
+font-size: 14px;
+padding: 7px 10px 0 10px;
+display: inline-block;
+ }
+ .g_diamond {
+ 	float: left;
+ }
+  .detail_t2 {
+float: left;
+font-size: 14px;
+padding: 7px 7px 3px 7px;
+background: #f2eada;
+opacity: 1.2;
+ }
+ .detail_box02 {
+float: right;
+font-size: 14px;
+color: #666666;
+margin-top: -5px;
+ }
+  .detail_t3 {
+  	width: 664px;
+font-size: 13px;
+padding: 31px 0 52px 0;
+color: #807f7e;
+ }
+ .detail_btn {
+ 	width: 350px;
+ 	margin: 0 auto;
+ 	padding: 0 0 48px 0;
+ }
+.detail_link {
+font-size: 13px;
+text-decoration: underline;
+color: #52bfbf;
+ }
+.detail_ttl01 {
+ 	font-family: 'Meiryo';
+ 	font-size: 15px;
+ 	font-weight: bold;
+ 	color: #666666;
+	padding: 0px 0px 3px 0px;
+ }
+.detail_t4 {
+font-size: 13px;
+color: #807f7e;
+ }
+a.detail_link {
+text-decoration:underline;
+color:#52bfbf;
+ }
+ .detail_box04 {
+  	width: 670px;
+  	margin: 0 auto;
+  	padding: 40px 0 29px 0;
+ }
+ .detail_box05 {
+  	width: 130px;
+  	float: left;
+  	background: #dbdbdb;
+  	/*padding: 0 0 160px 0;*/
+ }
+  .detail_box05 a {
+  	width: 130px;
+  	
+	display:block;
+ }
+ .detail_box06 {
+  	width: 540px;
+  	float: left;
+  	background: #fff;
+ }
+  .detail_t5 {
+font-size: 13px;
+color: #807f7e;
+padding: 21px 29px 20px 20px;
+ }
+ .detail_button {
+ 	float: left;
+ 	padding: 0 8px 0 0;
+ }
+  .detail_button a, .detail_button01 a {
+ 	color:#666666;
+	display:block;
+	background:#fff;
+	border:1px solid #dbd4cc;
+	padding:8px 10px 8px 10px;
+ }
+   .detail_button span ,.detail_button01 span {
+ 	padding-left:6px
+ }
+ 
+ .detail_button01 {
+ 	float: left;
+ }
+.detail_social {
+ padding:30px 0px 50px 0px;	
+ width:321px;
+margin:0 auto;
+}
+
+.detail_social a {
+display:block;
+width:92px;
+height: 92px;
+border-radius: 63px;
+color: #fff;
+text-align:center;
+font-size:38px;
+}
+.detail_social a.facebook
+{
+background: #4c6eaa;
+}
+.detail_social a.twitter
+{
+background: #00bbf2;
+}
+.detail_social a.google-plus
+{
+background: #e94747;
+}
+.detail_social a:hover {
+text-decoration:none;
+ }
+.detail_social ul li {
+ 	padding: 0 15px 0 0;
+	float:left;
+}
+.detail_social .icon-facebook {
+ padding-top: 33px;
+ width:14px;
+ height:30px;
+}
+.detail_social .icon-twitter {
+ padding-top: 33px;
+ width:30px;
+ height:25px;
+}
+.detail_social .icon-google-plus
+{
+ padding-top: 33px;
+ width:25px;
+ height:26px;
+}
+/*--------------------------------------
+ about.css
+ --------------------------------------*/
+.about_iconftL {
+	position: absolute;
+	left: 23px;
+	top: 20px;
+}
+#modal-close {
+	width: 79px;
+	position: absolute;
+	top: -32px;
+	right: 0;
+	z-index:4;
+}
+.about_bnr_img {
+	text-align: left;
+	float: left;
+	width: 473px;
+}
+.about_bnr_img p {
+	line-height: 1.3em;
+}
+.about_bnr_img .about_bnr_l {
+	
+	
+	
+}
+.about_inner_txt {
+	width:376px;
+	float:right;
+	letter-spacing: 2px;
+	padding:190px 0px 0px 0px;
+}
+.about_ttl01 {
+	font-size: 16px;
+	font-weight: bold;
+	
+}
+.about_ttl02 {
+	font-size: 23.23px;
+	font-weight: bold;
+	}
+.about_ttl03 {
+	font-size: 16px;
+	line-height: 1.3em;
+padding-bottom: 16px;
+}
+.about_txt01 {
+	font-size: 14px;
+	letter-spacing: 3px;
+	padding-bottom: 22px;
+}
+.about_bnr_img .about_btntxt {
+	font-size: 12px;
+	text-decoration: underline;
+	line-height: 1.8em;
+}
+.about_innerWrap
+{
+padding:0px 0px 0px 50px;
+width:276px;
+}
+.about_btntxt
+{
+font-size:12px;
+text-decoration:underline;
+}
+.loginWrap {
+padding-bottom: 150px;
+}
+
+/*------------
+company
+-----------------------------*/
+.company_ttl
+{
+font-size: 18px;
+font-weight: bold;
+margin: 0px 0px 25px 0px;
+}
+.company_ttl2
+{
+font-size:16px;
+font-weight:bold;
+margin: 0px 0px 10px 0px;
+}
+.companyLeft
+{
+float:left;
+}
+.companyRight
+{
+float:right;
+}
+.company_txt
+{
+margin: 0px 0px 20px 0px;
+}
+.map {
+width: 470px;
+background: #e0dfdd;
+height: 500px;
+float: right;
+}
+.map p
+{
+padding-top: 250px;
+text-align: center;
+font-size: 20px;
+}
+#btn_txt_center
+{
+font-size: 16px;
+}
+#txt_center
+{
+text-align:center;
+font-size: 16px;
+}
+#login #text_font17
+{
+font-size:17px;
+}
+.errorttl
+{
+font-size: 16px;
+color:#e94747;
+font-weight:bold;
+margin-bottom:20px;
+}
+ textarea {
+vertical-align: top;
+font-size: 16px;
+width: 351px;
+margin-bottom: 28px;
+-webkit-appearance: none;
+background: #fff;
+border: 1px solid #dbd4cc;
+border-top: 1px solid #c0c0c0;
+/* border-radius: 2px; */
+padding: 5px 8px;
+box-sizing: border-box;
+-moz-box-sizing: border-box;
+font-family: 'Meiryo';
+}

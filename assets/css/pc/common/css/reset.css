@@ -1,0 +1,77 @@
+@charset "utf-8";
+
+/* ****************************************************
+Title: reset.css
+Created: 2013‒03‒08
+Last Modified: 
+Editor(s): 
+***************************************************** */
+
+/* -------------------------------------------------------------------- 
+Reset Styles
+-------------------------------------------------------------------- */
+
+body {
+ color: #333;
+ font-family:	"ＭＳ Ｐゴシック", "メイリオ", "Meiryo", Verdana, "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", Osaka, "MS PGothic", Sans-Serif;
+ font-size: 13px;
+ *font-size:small;
+ *font:x-small;
+}
+body,div,h1,h2,h3,h4,h5,h6,dl,dt,dd,ul,ol,li,
+p,blockquote,pre,cite,code,caption,
+form,fieldset,legend,input,textarea,select,option,label {
+	margin: 0px;
+	padding: 0px;
+}
+html>body body {
+ font-size: 12px;
+}
+h1,h2,h3,h4,h5,h6 {
+ font-size: 100%;
+ font-weight: normal;
+}
+th,td,input,textarea {
+ font-size: 100%;
+}
+ol,ul {
+ list-style: none;
+}
+address,em,cite {
+ font-style: normal;
+}
+img {
+ border: none;
+ vertical-align: top;
+}
+a {
+ overflow: hidden;
+ text-decoration: none;
+}
+table {
+ border-collapse: separate;
+ border-spacing: 0;
+}
+th,td {
+ text-align: left;
+ font-weight: normal;
+}
+
+/* link
+---------------------------------------------*/
+a:link {
+	
+}
+
+a:visited {
+	
+}
+
+a:hover {
+
+}
+
+a:active {
+	color:#FF4646;
+	text-decoration: none;
+}

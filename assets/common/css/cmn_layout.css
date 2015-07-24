@@ -1,0 +1,803 @@
+@charset "utf-8";
+/* ===================================================================
+ style info : コンテンツエリア関係 他
+
+ fonts
+ 10px = 77%     11px = 85%     12px = 93%     13px = 100%
+ 14px = 108%    15px = 116%    16px = 123.1%  17px = 131%
+ 18px = 138.5%  19px = 146.5%  20px = 153.9%  21px = 161.6%
+ 22px = 167%    23px = 174%    24px = 182%    25px = 189%
+ 26px = 197%
+ =================================================================== */
+
+/*----------------------------------------------------
+ 共通
+ ----------------------------------------------------*/
+/* スクロールバーの有無によるズレ対策 */
+html {
+	overflow-y: scroll;
+}
+
+body {
+	font-family: "メイリオ", Meiryo, "Hiragino Kaku Gothic Pro", "ヒラギノ角ゴ Pro W3", "ＭＳ Ｐゴシック", "Lucida Grande", "Lucida Sans Unicode", Arial, Verdana, sans-serif;
+    background: url(../../common/img/bg/main_bg.jpg) repeat;
+	}
+
+
+/* --------------------------------------------------------------------
+ /* Image Rollover (Alpha)
+ -------------------------------------------------------------------- */
+
+a:hover, a img:hover {
+	filter: alpha(opacity=80);
+	 -moz-opacity:0.8;
+	 opacity:0.8;
+	 transition: 0.2s ease-in-out;
+}
+
+input, textarea {
+	font-family: "メイリオ", Meiryo, "Hiragino Kaku Gothic Pro", "ヒラギノ角ゴ Pro W3", "ＭＳ Ｐゴシック", "Lucida Grande", "Lucida Sans Unicode", Arial, Verdana, sans-serif;
+}
+
+.pt10 {
+	padding-top: 10px !important;
+}
+.pt17 {
+	padding-top: 17px !important;
+}
+.pt20 {
+	padding-top: 20px !important;
+}
+.pt25 {
+	padding-top: 25px !important;
+}
+.pt27 {
+	padding-top: 27px !important;
+}
+
+.pb10 {
+	padding-bottom: 10px !important;
+}
+.pb15 {
+	padding-bottom: 15px !important;
+}
+.pb20 {
+	padding-bottom: 20px !important;
+}
+.pb25 {
+	padding-bottom: 25px !important;
+}
+.pb30 {
+	padding-bottom: 30px !important;
+}
+.pb55 {
+	padding-bottom: 55px !important;
+}
+.pb60 {
+	padding-bottom: 60px !important;
+}
+
+.mt10 {
+	margin-top: 10px !important;
+}
+.mt20 {
+	margin-top: 20px !important;
+}
+.mt40 {
+	margin-top: 40px !important;
+}
+.mt50 {
+	margin-top: 50px !important;
+}
+.mt60 {
+	margin-top: 60px !important;
+}
+
+.mb6 {
+	margin-bottom: 6px;
+}
+.mb17 {
+	margin-bottom: 17px;
+}
+.mb20 {
+	margin-bottom: 20px;
+}
+.mb27 {
+	margin-bottom: 27px;
+}
+.mb34 {
+	margin-bottom: 34px;
+}
+.mb46 {
+	margin-bottom: 46x;
+}
+.mb55 {
+	margin-bottom: 55px;
+}
+.mb60 {
+	margin-bottom: 60px;
+}
+.mb67 {
+	margin-bottom: 67px;
+}
+
+.ml16 {
+	margin-left: 16px;
+}
+
+.mr12 {
+	margin-right: 12px;
+}
+
+.w283 {
+	width: 283px;
+}
+.w290 {
+	width: 290px;
+}
+.w314 {
+	width: 314px;
+}
+.w344 {
+	width: 344px;
+}
+
+.fs18 {
+	font-size: 18px !important;
+}
+.fs22 {
+	font-size: 22px !important;
+}
+.fs23 {
+	font-size: 23px !important;
+}
+
+ul, li {
+	list-style: none;
+}
+
+/* リンク
+ ----------------------------------------------------*/
+a {
+	color: #666666;
+	text-decoration: none;
+}
+
+a:link {
+	
+	text-decoration: none;
+}
+
+a:visited {
+	
+	text-decoration: none;
+}
+
+
+
+/* よく使いそうなCSS3
+ ----------------------------------------------------*/
+
+#selectors {
+	/* 角丸 */
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+	/* 角丸個別 */
+	-webkit-border-top-right-radius: 15px;
+	-moz-border-radius-topright: 15px;
+	border-top-right-radius: 15px;
+	/* ボックスに影 */
+	-webkit-box-shadow: 1px 1px 3px #999;
+	-moz-box-shadow: 1px 1px 3px #999;
+	box-shadow: 1px 1px 3px #999;
+	/* テキストに影 */
+	text-shadow: 1px 1px 0px #999;
+}
+.textShadowBlack {
+	text-shadow: 1px 2px 0px #333;
+}
+
+/* 汎用
+ ----------------------------------------------------*/
+/* clerfix */
+#contents:after {
+	content: ".";
+	display: block;
+	visibility: hidden;
+	height: 0.1px;
+	font-size: 0.1em;
+	line-height: 0;
+	clear: both;
+}
+.clearfix:after {
+	content: "";
+	display: block;
+	clear: both;
+}
+.clearfix {
+	display: inline-block;
+}
+/*\*/
+* html .clearfix {
+	height: 1%;
+}
+.clearfix {
+	display: block;
+}
+/**/
+
+.both {
+	clear: both;
+}
+.fltL {
+	float: left;
+}
+.fltR {
+	float: right;
+}
+
+.tC, .btn {
+	text-align: center;
+}
+
+.tR, .sign {
+	text-align: right;
+}
+
+.sign2 {
+	text-align: right;
+	color: #F00;
+}
+
+.textcolRed {
+	color: #ff0000;
+}
+.textBold {
+	font-weight: bold;
+}
+
+a.undLine {
+	text-decoration: underline;
+	color: #000099;
+}
+.textCenter {
+	text-align: center;
+}
+
+.width100 {
+	width: 100%;
+}
+/*-----------------------------------------*/
+
+/*----------------------------------------------------
+ header
+ ----------------------------------------------------*/
+#wrapper {
+	width: 100%;
+}
+header {	
+	position: fixed;	
+	/* font-family: 'Meiryo'; */
+	font-size: 13px;
+	width:100%;
+	left:0px;
+	top:0px;
+	height:227px;
+	z-index:100;
+}
+header #headwrap{ 
+    height: 94px;
+	width:960px;
+	margin:0 auto;
+}
+header #header_In {
+	width: 960px;
+	margin: 0 auto;
+}
+.headerInner
+{
+background:#ffffff;
+}
+#header_In #logo {
+	width: 235px;
+	float: left;
+	padding: 24px 0px 0;
+}
+#logo h1
+{
+padding-top:7px;
+}
+#header_In #head_info {
+	width: 511px;
+	float: right;
+}
+#header_In #head_info .h_nav {
+	display: inline-block;
+	padding: 28px 0 15px 0;
+}
+#header_In #head_info .h_nav li {
+	float: left;
+}
+#header_In #head_info  a
+{
+font-size: 12px;
+color:#666666;
+-webkit-font-smoothing: antialiased;
+font-family: 'Meiryo';
+text-shadow: 1px 1px 9px rgba(102, 102, 102, 0.2);
+filter: progid:DXImageTransform.Microsoft.Blur(PixelRadius=3,MakeShadow=true,ShadowOpacity=0.10);
+-ms-filter: "progid:DXImageTransform.Microsoft.Blur(PixelRadius=3,MakeShadow=true,ShadowOpacity=0.10)";
+}
+#header_In #head_info .nav_border
+{
+border-left:1px solid #dbd4cc;
+border-top:1px solid #dbd4cc;
+border-bottom:1px solid #dbd4cc;
+padding: 11px 16px 7px 16px;
+}
+#header_In #head_info .nav_border_last
+{
+border:1px solid #dbd4cc;
+padding:10px 16px 8px 16px;
+position: relative;
+top: -1px;
+}
+.social_helpRSS img
+{
+vertical-align:baseline;
+}
+.button-link
+{
+padding-right:16px;
+}
+#gNav {
+	width: 100%;
+	border-top: 4px solid #c3ab7a;
+	background: url(../../common/img/bg/nav_bg.png) repeat-x;
+}
+#gNav .gNavIn {
+	width: 960px;
+	margin: 0 auto;
+}
+#gNav #migaku {
+	width: 106px;
+}
+#gNav .gNavIn ul {
+	width: 854px;
+	background:#ffffff;
+	text-align: left;
+}
+#gNav .gNavIn ul li {
+	float: left;
+	width: 170px;
+
+	text-align: left;
+border-right: 1px solid #dbd4cc;
+border-top: 1px solid #dbd4cc;
+
+}
+#gNav .gNavIn ul li a {
+	padding: 12px 13px 12px 14px;
+	display:block;
+	font-size: 13px;
+color:#333333;
+font-family:'Meiryo';
+-webkit-font-smoothing: antialiased;
+text-shadow: 1px 1px 9px rgba(102, 102, 102, 0.2);
+filter: progid:DXImageTransform.Microsoft.Blur(PixelRadius=3,MakeShadow=true,ShadowOpacity=0.10);
+-ms-filter: "progid:DXImageTransform.Microsoft.Blur(PixelRadius=3,MakeShadow=true,ShadowOpacity=0.10)";
+}
+#gNav .gNavIn .fltLlast_block
+{
+border-right: none;
+border-top: 1px solid #dbd4cc;
+}
+#gNav .gNavIn ul li img {
+	vertical-align:middle;
+	padding-right:6px;
+}
+#menu_hover1:hover
+{
+background:#fef1f1;
+transition: 0.2s ease-in-out;
+}
+#menu_hover1on
+{
+background:#fef1f1;
+}
+#menu_hover1on a:hover {
+filter: alpha(opacity=10);
+-moz-opacity: 1;
+opacity: 1;
+
+}
+#menu_hover2:hover
+{
+background:#fff6f1;
+transition: 0.2s ease-in-out;
+}
+#menu_hover2on
+{
+background:#fff6f1;
+}
+#menu_hover2on a:hover {
+filter: alpha(opacity=10);
+-moz-opacity: 1;
+opacity: 1;
+}
+#menu_hover3:hover
+{
+background:#fdfdf6;
+transition: 0.2s ease-in-out;
+}
+#menu_hover3on
+{
+background:#fdfdf6;
+}
+#menu_hover3on a:hover {
+filter: alpha(opacity=10);
+-moz-opacity: 1;
+opacity: 1;
+}
+#menu_hover4:hover
+{
+background:#f9fae5;
+transition: 0.2s ease-in-out;
+}
+#menu_hover4on
+{
+background:#f9fae5;
+}
+#menu_hover4on a:hover {
+filter: alpha(opacity=10);
+-moz-opacity: 1;
+opacity: 1;
+}
+#menu_hover5:hover
+{
+background:#e8f3f4;
+transition: 0.2s ease-in-out;
+}
+#menu_hover6:hover
+{
+background:#e8f3f4;
+transition: 0.2s ease-in-out;
+}
+#menu_hover6on
+{
+background:#e8f3f4;
+}
+#menu_hover6on a:hover {
+filter: alpha(opacity=10);
+-moz-opacity: 1;
+opacity: 1;
+}
+#menu_hover7:hover
+{
+background:#f0fafd;
+transition: 0.2s ease-in-out;
+}
+#menu_hover7on
+{
+background:#f0fafd;
+}
+#menu_hover7on a:hover {
+filter: alpha(opacity=10);
+-moz-opacity: 1;
+opacity: 1;
+}
+#menu_hover8:hover
+{
+background:#eaf1f9;
+transition: 0.2s ease-in-out;
+}
+#menu_hover8on
+{
+background:#eaf1f9;
+}
+#menu_hover8on a:hover {
+filter: alpha(opacity=10);
+-moz-opacity: 1;
+opacity: 1;
+}
+#menu_hover9:hover
+{
+background:#f4eef9;
+transition: 0.2s ease-in-out;
+}
+#menu_hover9on
+{
+background:#f4eef9;
+}
+#menu_hover9on a:hover {
+filter: alpha(opacity=10);
+-moz-opacity: 1;
+opacity: 1;
+}
+#menu_hover10:hover
+{
+background:#f9f6f1;
+transition: 0.2s ease-in-out;
+}
+#menu_hover10on
+{
+background:#f9f6f1;
+}
+#menu_hover10on a:hover {
+filter: alpha(opacity=10);
+-moz-opacity: 1;
+opacity: 1;
+}
+#menu_hover5on
+{
+background:#e8f3f4;
+}
+#menu_hover5on a:hover {
+filter: alpha(opacity=10);
+-moz-opacity: 1;
+opacity: 1;
+
+}
+
+
+
+
+/*----------------------------------------------------
+ #contents（メインとサイド）
+ ----------------------------------------------------*/
+#contents {
+	width: 100%;
+	padding-top:210px;
+	}
+#contents .breadcumb ul li {
+	float: left;
+	margin: 22px 0px 30px 0px;
+	font-size: 12px;
+	font-family: 'Meiryo';
+}
+#contents .breadcumb a {
+	color: #21b5b7;
+	text-decoration: underline;
+}
+/*------------------------------------------*/
+#cont02 #btnArea02 {
+	width: 204px;
+	margin-right: auto;
+	margin-left: auto;
+	padding-top: 18px;
+	padding-bottom: 28px;
+	font-size: 13px;
+}
+#cont02 #btnArea02 .btnAreaIn02 {
+	float: left;
+	padding-right: 30px;
+}
+#cont02 #btnArea02 ul li {
+	float: left;
+}
+#cont02 {
+	background: #e3d1ac;
+	font-family: 'Meiryo';
+	font-size: 22px;
+	font-weight: bold;
+	height: 55px;
+}
+#cont02 a {
+	color: #666666;
+}
+#cont02 a:hover {
+	text-decoration: none;
+}
+/*----------------------------------------------------
+ footer#globalFooter
+ ----------------------------------------------------*/
+
+footer {
+	font-size: 13px;
+	background-repeat: no-repeat;
+	background-position: left bottom;
+	text-align: center;
+	background:#ffffff;
+}
+
+#footer-menu {
+	width: 308px;
+	margin: 0 auto;
+	background: #ffffff;
+	font-family: 'AxisStd';
+	font-size: 12px;
+	padding: 24px 0px 26px;
+}
+#footer-menu ul {
+	display: inline-block;
+	text-align: left;
+}
+#footer-menu ul li a {
+	color: #ff89ab;
+}
+footer .footerP01 {
+	font-size: 18px;
+	line-height: 1em;
+	padding-top: 22px;
+	padding-bottom: 12px;
+}
+footer .footerP02 {
+	font-size: 14px;
+	line-height: 1em;
+}
+.dispNone {
+	display: none;
+}
+/*
+ -----------------------------
+ content
+ -----------------------------------------------------------*/
+.main {
+	width: 950px;
+	margin: 0 auto;
+}
+.social_helpRSS li
+{
+float:left;
+padding-left:10px;
+}
+.social_helpRSS
+{
+float:right;
+position:relative;
+top:16px;
+height:24px;
+}
+.social_banner  .facebook a
+{
+width:32px;
+height:32px;
+display: block;
+border-radius: 34px;
+background: #4c6eaa;
+color:#fff;
+}
+.social_banner  .twitter a
+{
+width:32px;
+height:32px;
+display: block;
+border-radius: 34px;
+background: #00bbf2;
+color:#fff;
+}
+.social_banner  .google_plus a
+{
+width:32px;
+height:32px;
+display: block;
+border-radius: 34px;
+background: #e94747;
+color:#fff;
+
+}
+.social_banner
+{
+position:fixed;
+right: 20px;
+top: 226px;
+text-align:center;
+}
+.social_banner .icon-facebook
+{
+padding:8px 0px 0px 1px;
+font-size:19px;
+width:8px;
+height:17px;
+}
+.social_banner .icon-twitter
+{
+padding:8px 0px 0px 1px;
+font-size:19px;
+width:16px;
+height:15px;
+}
+.social_banner .icon-google-plus
+{
+padding:8px 0px 0px 1px;
+font-size:19px;
+width:18px;
+height:16px;
+}
+.social_banner a:hover
+{
+text-decoration:none;
+}
+.social_banner li
+{
+margin:4px 0px 0px 0px;
+}
+.bnr_paragraphttl
+{
+font-size: 18px;
+font-family: "Meiryo";
+font-weight: bold;
+padding: 23px 0 11px 0;
+display:block;
+color:#333;
+}
+.bnr_paragraphtxt
+{
+display:block;
+color:#333;
+font-size: 12px;
+padding: 0 0 24px 0;
+}
+.blockIcongolf_txt {
+line-height: 1em;
+color: #fff;
+display:block;
+}
+.block_link
+{
+cursor:pointer;
+}
+
+/*pagenation--------------------------
+------------------------------------------------------
+--------------------------------------------------------*/
+.pagenation ul li
+{
+float: left;
+margin-top: 9px;
+margin-right: 17px;
+
+}
+.pagenation {
+position: absolute;
+left: 405px;
+}
+.pagenation #pageon
+{
+background:#d11f6e;
+}
+
+.pagenation a
+{
+display:block;
+width:12px;
+height:12px;
+background:#fff;
+text-indent:-9999px;
+-moz-border-radius: 5px; /* Firefox */
+  -webkit-border-radius: 5px; /* Safari and Chrome */
+  border-radius: 5px; /* Opera 10.5+, future browsers, and now also Internet Explorer 6+ using IE-CSS3 */
+
+ box-shadow: 10px 10px 20px #000; /* Opera 10.5+, future browsers and IE6+ using IE-CSS3 */
+
+  behavior: url(ie-css3.htc); /* This lets IE know to call the script on all elements which get the 'box' class */
+}
+#migaku a:hover,#migaku a img:hover {
+	filter: alpha(opacity=10);
+	 -moz-opacity:1;
+	 opacity:1;
+	 transition: 0.2s ease-in-out;
+}
+.button-link:hover,.button-link.img:hover
+{
+filter: alpha(opacity=10);
+	 -moz-opacity:1;
+	 opacity:1;
+	 transition: 0.2s ease-in-out;
+}
+.learnmore a
+{
+display:block;
+position:relative;
+}
+.learn_txt
+{
+font-size: 13px;
+font-weight: bold;
+color: #666666;
+font-family: "Meiryo";
+position: absolute;
+top: 11px;
+left: 50px;
+}

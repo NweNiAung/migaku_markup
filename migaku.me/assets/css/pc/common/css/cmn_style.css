@@ -1,0 +1,18 @@
+@charset "utf-8";
+/*----------------------------------------------------------------------------
+ clearfix Area
+ ----------------------------------------------------------------------------*/
+.clearfix {
+	zoom: 1;
+}
+.clearfix:after {
+	clear: both;
+	content: ".";
+	display: block;
+	height: 0;
+	line-height: 0;
+	visibility: hidden;
+}
+.mgt_14 {
+	margin-top: 14px !important;
+}

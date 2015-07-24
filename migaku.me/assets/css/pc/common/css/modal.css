@@ -1,0 +1,143 @@
+@charset "UTF-8";
+
+
+/* ここまでデモページ用のコード */
+
+#modal-content{
+	width:870px;
+	left:244px;
+	position:fixed;
+	display:none;
+	z-index:200;
+	top:60px;
+	
+	}
+.about_content
+ {
+    width:850px;
+	background:url(../../common/img/bg/nav_bg.png);
+	margin: 10px;
+	
+ }
+#modal-overlay{
+	z-index:100;
+	display:none;
+	position:fixed;
+	top:0;
+	left:0;
+	width:100%;
+	height:120%;
+	background-color:rgba(0,0,0,0.75);
+}
+
+
+ 
+.button-link:hover{
+	cursor:pointer;
+	
+}
+/* jssor slider thumbnail navigator skin 04 css */
+/*
+.jssort04 .p            (normal)
+.jssort04 .p:hover      (normal mouseover)
+.jssort04 .pav          (active)
+.jssort04 .pav:hover    (active mouseover)
+.jssort04 .pdn          (mousedown)
+*/
+.jssort04 .w, .jssort04 .pav:hover .w {
+position: absolute;
+width: 12px;
+height: 12px;
+border-radius:15px;
+
+}
+
+.jssort04 .w {
+background:#ffffff;
+width:12px;
+height:12px;
+border-radius:15px;
+}
+
+.jssort04 .pdn .w, .jssort04 .pav .w {
+border: 1px solid #d11f6e;
+}
+
+.jssort04 .c {
+width: 62px;
+height: 32px;
+filter:j alpha(opacity=0);
+opacity: 0;
+
+background:#fff;
+}
+
+.jssort04 .p:hover .c, .jssort04 .pav .c {
+filter: alpha(opacity=1);
+opacity: 1;
+transition: opacity .6s;
+-moz-transition: opacity .6s;
+-webkit-transition: opacity .6s;
+-o-transition: opacity .6s;
+background-color: #d11f6e;
+border: 1px solid #d11f6e;
+}
+.
+.jssort04 .p:hover .c {
+
+}
+#slidermodal_container
+{
+font-size:16px;
+font-family:'Meiryo';
+color:#333333;
+}
+.modal_ttl01
+{
+font-weight:bold;
+font-size:23px;
+}
+.modal_txt
+{
+
+display: block;
+width:279px;
+margin:0 auto;
+font-size: 14px;
+letter-spacing:1px;
+}
+.modal_txt02{
+display: block;
+width:279px;
+margin:0 auto;
+font-size: 12px;
+text-decoration:underline;
+}
+#slidermodal_container
+{
+
+position: relative; margin: 0 auto;top: 0px; left: 0px; width: 870px; height: 570px;
+}
+.slidermodal_containerIn
+{
+width:850px;
+
+cursor: move; 
+position: absolute; 
+left: 0px; 
+top: 0px; 
+width: 870px;
+height: 540px; 
+overflow: hidden;
+margin:0 auto;
+background:#ffffff;
+
+}
+.modal_bg1
+{width:850px !important;
+margin-left:10px;
+background:url(../../common/img/bg/nav_bg.png);
+height: 520px !important; 
+margin-top:10px ;
+margin-bottom:10px;
+}
