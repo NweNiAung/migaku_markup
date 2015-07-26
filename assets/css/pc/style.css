@@ -128,20 +128,20 @@ display:block;
 	margin: 10px 0 0 0;
 	width: 950px;
 }
-.row2 .article1 {
+ .article4 {
 	width: 310px;
 	float: left;
 	position: relative;
 	background: #ffffff;
 }
-.row2 .article3 {
+.article6 {
 	width: 310px;
 	float: left;
 	position: relative;
 	background: #ffffff;
 	margin:14px 0 0 0;
 }
-.row2 .article2 {
+.article5 {
 	width: 630px;
 	float: right;
 	position: relative;
@@ -152,19 +152,19 @@ display:block;
 .row3 {
 	margin: 10px 0 0 0;
 }
-.row3 .article1 {
+.article7 {
 	width: 240px;
 	float: left;
 }
-.row3 .article2 {
+.article8 {
 	width: 240px;
 	float: left;
 }
-.row3 .article3 {
+.article9 {
 	width: 240px;
 	float: left;
 }
-.row3 .article4 {
+.article10 {
 	width: 230px;
 	float: left;
 }
@@ -201,13 +201,13 @@ display:block;
 	margin: 10px 0 0 0;
 	width:950px;
 }
-.row4 .article1 {
+.row4 .article11 {
 	width: 469px;
 	float: left;
 	position: relative;
 	background: #ffffff;
 }
-.row4 .article2 {
+.row4 .article12 {
 	width: 469px;
 	float: right;
 	position: relative;
