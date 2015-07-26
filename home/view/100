@@ -177,8 +177,8 @@ text-align: left; font-size: 12px;">
 <div class="detailmain clearfix">
 <h2 class="detail_ttl">京都 紅葉絶景 2014 泉涌寺 山内寺院 今熊野観音寺</h2>
 <div class="detail_In clearfix">
-<div class="detail_box01 g_diamond ">
-<a href="http://migaku.me/category/view/12">
+<div class="detail_box01">
+<a href="http://migaku.me/category/view/12" class="g_diamond">
 
 <strong class="detail_t1">日本の魅力を知る</strong>
 </a>
