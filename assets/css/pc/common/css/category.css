@@ -228,6 +228,10 @@ display: inline-block;
  }
  .g_diamond {
  	float: left;
+ 	background:url('http://migaku.me/assets/img/pc/detail/g_diamond.png');
+ 	background-repeat:no-repeat;
+ 	padding-left:25px;
+
  }
   .detail_t2 {
 float: left;
