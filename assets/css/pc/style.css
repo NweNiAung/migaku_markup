@@ -41,6 +41,10 @@
 #charmIcon {
 	background: #1f3a90;
 }
+.charmIcon
+{
+background: #1f3a90;	
+}
 #extraIcon {
 	background: #6ecbe9;
 }
@@ -50,18 +54,35 @@
 #concertIcon {
 	background: #f9ee61;
 }
+.concertIcon {
+	background: #f9ee61;
+}
+
 #interIcon {
 	background: #f96767;
 }
-.topsec01 {
+.row1 {
 	width: 950px;
 	margin: 17px 0 0 0;
 }
-.topsec01Left {
+.row1 .article1 {
 	width: 630px;
 	float: left;
 	position: relative;
 	background: #ffffff;
+}
+.row1 .article2{
+	width: 310px;
+	float: right;
+	position: relative;
+	background: #ffffff;
+}
+.row1 .article3{
+	width: 310px;
+	float: right;
+	position: relative;
+	background: #ffffff;
+	margin-top:14px !important;
 }
 .topsec01Right {
 	width: 310px;
@@ -103,43 +124,66 @@ display:block;
 	padding: 18px 0 17px 0;
 }
 /*topsec02*/
-.topsec02 {
+.row2 {
 	margin: 10px 0 0 0;
+	width: 950px;
 }
-.topsec02Left {
+.row2 .article1 {
 	width: 310px;
 	float: left;
+	position: relative;
+	background: #ffffff;
 }
-.topsec02Right {
+.row2 .article3 {
+	width: 310px;
+	float: left;
+	position: relative;
+	background: #ffffff;
+	margin:14px 0 0 0;
+}
+.row2 .article2 {
 	width: 630px;
 	float: right;
 	position: relative;
 	background: #ffffff;
+	
 }
 /*topsec03*/
-.topsec03 {
+.row3 {
 	margin: 10px 0 0 0;
 }
-.topsec03bl01 {
+.row3 .article1 {
 	width: 240px;
 	float: left;
 }
-.topsec03bl02 {
+.row3 .article2 {
 	width: 240px;
 	float: left;
 }
-.topsec03bl03 {
+.row3 .article3 {
 	width: 240px;
 	float: left;
 }
-/*topsec04*/
-.topsec04 {
-	margin: 10px 0 0 0;
-}
-.topsec03bl04 {
+.row3 .article4 {
 	width: 230px;
 	float: left;
 }
+
+.row3 .description {
+	width: 230px;
+	background: #ffffff;
+	position: relative;
+}
+.row3 .description h3 {
+	color: #666666;
+	font-size: 13px;
+	font-weight: bold;
+	text-align: center;
+	padding: 18px 0 17px 0;
+}
+
+
+
 .topsec03In {
 	width: 230px;
 	background: #ffffff;
@@ -152,13 +196,18 @@ display:block;
 	text-align: center;
 	padding: 18px 0 17px 0;
 }
-.topsec04Left {
+/*topsec04*/
+.row4 {
+	margin: 10px 0 0 0;
+	width:950px;
+}
+.row4 .article1 {
 	width: 469px;
 	float: left;
 	position: relative;
 	background: #ffffff;
 }
-.topsec04Right {
+.row4 .article2 {
 	width: 469px;
 	float: right;
 	position: relative;
