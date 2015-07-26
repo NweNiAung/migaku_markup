@@ -20,6 +20,7 @@
 <script type="text/javascript" src="assets/common/js/jssor.js"></script>
 </head>
 <body id="home">
+<!--git_test-->
 <div id="modal-content">
 
 <p><a id="modal-close" class="button-link"><img src="http://migaku.me/assets/img/pc/about/modal_close.png" alt=""/></a></p>
