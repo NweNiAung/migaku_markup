@@ -231,7 +231,7 @@ display: inline-block;
  	background:url('http://migaku.me/assets/img/pc/detail/g_diamond.png');
  	background-repeat:no-repeat;
  	padding-left:25px;
-
+    height:31px;
  }
   .detail_t2 {
 float: left;
